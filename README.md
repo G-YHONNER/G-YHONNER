@@ -1,6 +1,9 @@
-# YHONNER
+# Snake Game 🐍
 
-![Animación de colores](assets/animacion-yhonner.gif)
+¡Bienvenido al juego de la serpiente! 🎮
 
-Bienvenidos a mi repositorio. 🌈  
-Soy un desarrollador apasionado por la tecnología y la creatividad. 🚀
+![Vista previa del juego](ruta-a-tu-gif.gif)
+
+Puedes jugarlo aquí: [Jugar al juego de la serpiente](https://tu-enlace-al-juego.com)
+
+¡Diviértete!
