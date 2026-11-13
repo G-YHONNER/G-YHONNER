@@ -9,5 +9,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
